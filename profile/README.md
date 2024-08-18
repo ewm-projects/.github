@@ -1,7 +1,7 @@
-# Learn With MERN
+# Daily Standups
 
-## About
+- Github Organization for hosting projects for the DailyStandups discord server
 
-This github organization was created to organize and host projects aimed at people who are looking to learn software development, gain experience, and grow as a programmer
+## Join
 
-If you are interested in participating, please join our [discord](https://discord.gg/nWH3TnMDp5)
+- [discord](https://discord.gg/UKE3XcKCKt)
